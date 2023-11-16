@@ -1,2 +1,2 @@
 # Professional Valorant Player
-This project was created to complete learning to make android applications for beginners course in Dicoding
+This project was created to complete "Belajar Membuat Aplikasi Android untuk Pemula" course in Dicoding
