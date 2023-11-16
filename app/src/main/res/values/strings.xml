@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Valorant Pro Player</string>
+    <string name="player_name">Player Name</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="hardware">Hardware</string>
+    <string name="mouse">Mouse</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="headset">Headset</string>
+    <string name="mouse_detail">Mouse Detail</string>
+    <string name="keyboard_detail">Keyboard Detail</string>
+    <string name="headset_detail">Headset Detail</string>
+    <string name="back">Back</string>
+    <string-array name="data_name">
+        <item>d4v41</item>
+        <item>f0rsakeN</item>
+        <item>mindfreak</item>
+        <item>Jinggg</item>
+        <item>something</item>
+        <item>Demon1</item>
+        <item>Boostio</item>
+        <item>jawgemo</item>
+        <item>Ethan</item>
+        <item>C0M</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ahmad Khalish Rusyaidee bin Nordin (born October 14, 1998) is an Malaysian player who currently plays for Paper Rex. He is a former Counter-Strike: Global Offensive player.</item>
+        <item>Jason Susanto (born March 25, 2004) is an Indonesian player who is currently playing for Paper Rex. He is a former Counter-Strike: Global Offensive player. He is also the brother of the former Counter-Strike: Global Offensive player Kevin Susanto.</item>
+        <item>Aaron Leonhart (born October 4, 1999) is an Indonesian player who currently plays for Paper Rex. He is a former Counter-Strike: Global Offensive player.</item>
+        <item>Wang Jing Jie (born July 29, 2003) is an Singaporean player who currently plays for Paper Rex.</item>
+        <item>Ilya Petrov (born February 11, 2002) is a Russian player who is currently playing for Paper Rex.</item>
+        <item>Max Mazanov (born September 7, 2002) is an American player who is currently playing for Evil Geniuses. He is a former Unreal Tournament 4 player.</item>
+        <item>Kelden Pupello (born November 14, 2000) is an American player who is currently playing as an in-game leader for Evil Geniuses. He is a former Overwatch player most notably playing for Skyfoxes.</item>
+        <item>Alexander Mor (born June 24, 1999) is a Cambodian player who is currently playing for Evil Geniuses.</item>
+        <item>Ethan Arnold (born March 2, 2000) is an American player who is currently playing for Evil Geniuses. He is a former Counter-Strike: Global Offensive player known for his time in NRG Esports and Evil Geniuses.</item>
+        <item>Corbin Lee (born May 10, 2000) is an American/Korean player who is currently playing for Evil Geniuses. He is a former Counter-Strike: Global Offensive player and streamer known for his time on Mythic.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/davai</item>
+        <item>@drawable/forsaken</item>
+        <item>@drawable/mindfreak</item>
+        <item>@drawable/jinggg</item>
+        <item>@drawable/something</item>
+        <item>@drawable/demon1</item>
+        <item>@drawable/boostio</item>
+        <item>@drawable/jawgemo</item>
+        <item>@drawable/ethan</item>
+        <item>@drawable/com</item>
+    </integer-array>
+    <string-array name="data_mouse">
+        <item>Logitech G Pro X Superlight</item>
+        <item>Logitech G Pro X Superlight</item>
+        <item>Logitech G Pro X Superlight</item>
+        <item>Finalmouse Starlight-12</item>
+        <item>Logitech G Pro X Superlight</item>
+        <item>G-WOLVES HATI S+ 4K</item>
+        <item>FinalMouse Starlight Pro</item>
+        <item>ZOWIE EC3-CW</item>
+        <item>SteelSeries Prime</item>
+        <item>Logitech G Pro X Superlight White</item>
+    </string-array>
+    <string-array name="data_keyboard">
+        <item>HyperX Alloy 60</item>
+        <item>HyperX Alloy Origin Core</item>
+        <item>Ducky One (Christmas Edition)</item>
+        <item>FL Esports MK870</item>
+        <item>HyperX Alloy FPS</item>
+        <item>WOOTING 60 HE</item>
+        <item>Vortex Pok3r RGB</item>
+        <item>Wooting 60 HE</item>
+        <item>Razer Blackwidow Lite</item>
+        <item>Anne Pro 2</item>
+    </string-array>
+    <string-array name="data_headset">
+        <item>HyperX Cloud Alpha</item>
+        <item>HyperX Cloud II</item>
+        <item>Shure MV7</item>
+        <item>Logitech G PRO X</item>
+        <item>Logitech G Pro X</item>
+        <item>HyperX Cloud II</item>
+        <item>HyperX Cloud II</item>
+        <item>beyerdynamic DT 990 Pro</item>
+        <item>HyperX Cloud II</item>
+        <item>HyperX Cloud II</item>
+    </string-array>
+</resources>
